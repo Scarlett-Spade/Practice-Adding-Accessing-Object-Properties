@@ -1,2 +1,3 @@
 # Practice-Adding-Accessing-Object-Properties
-Created with CodeSandbox
+
+This is [Skillcrush](https://skillcrush.com/) course practice.
